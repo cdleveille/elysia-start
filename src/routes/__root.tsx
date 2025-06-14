@@ -53,7 +53,7 @@ export const Route = createRootRoute({
     ],
     scripts: [
       {
-        // src: '/customScript.js',
+        src: '/customScript.js',
         type: 'text/javascript',
       },
     ],

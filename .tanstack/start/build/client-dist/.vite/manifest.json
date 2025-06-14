@@ -1,0 +1,15 @@
+{
+  "../../../../../~start/default-client-entry.tsx": {
+    "file": "assets/main-CM1I1cG0.js",
+    "name": "main",
+    "src": "../../../../../~start/default-client-entry.tsx",
+    "isEntry": true,
+    "assets": [
+      "assets/main-Bx2TZteV.css"
+    ]
+  },
+  "C:/Users/cdlev/source/repos/elysia-start/src/styles/main.css": {
+    "file": "assets/main-Bx2TZteV.css",
+    "src": "C:/Users/cdlev/source/repos/elysia-start/src/styles/main.css"
+  }
+}
